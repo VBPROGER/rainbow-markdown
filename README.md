@@ -1,7 +1,9 @@
-+1# rainbow-markdown
+# rainbow-markdown
+<!-- just patched one thing, check history. -->
 If you will come here, you will ~~may~~ see something really cool...
 # \\|/ ⬇️
 That's cool, right? 😎
+<!-- yes, i'm using diff, and? -->
 ```diff
 - CRITICAL ERROR! DELETING SYSTEM CORE...
 + Fine.
