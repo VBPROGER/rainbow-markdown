@@ -1,4 +1,4 @@
-# rainbow-markdown
++1# rainbow-markdown
 If you will come here, you will ~~may~~ see something really cool...
 # \\|/ ⬇️
 That's cool, right? 😎
@@ -13,3 +13,25 @@ That's cool, right? 😎
 No? You can view my ~~packages~~ projects❗
 
 by clicking [this](https://github.com/vbproger?tab=repositories) link! 🔗
+# Yes, but I just like the design 🌃
+OK, you can view sources 🗄️
+
+of this ~~project~~ repo by clicking 🖱️
+
+[this link](https://raw.githubusercontent.com/VBPROGER/rainbow-markdown/main/README.md)! 🔗
+# ...
+⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️
+
+**`KEYBOARD ATTACK DETECTED!!!`**
+`- What to do?`
+```bash
+sudo attack --stop --allusers --force
+```
+`- Wow, that was really cool!`
+`- Wait, did I just said a meme?!`
+###### Wow, that was really cool 👍
+##### Wow, that was really cool 👍
+#### Wow, that was really cool 👍
+### Wow, that was really cool 👍
+## Wow, that was really cool 👍
+# Wow, that was really cool 👍 🤯
