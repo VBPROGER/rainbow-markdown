@@ -29,14 +29,13 @@ of this ~~project~~ repo by clicking 🖱️
 ```bash
 sudo attack --stop --allusers --force
 ```
-<br>
 `- Wow, that was really cool!`
 <br>
 `- Wait, did I just said a meme?!`
 <br>
-###### Wow, that was really cool 👍
-##### Wow, that was really cool 👍
-#### Wow, that was really cool 👍
-### Wow, that was really cool 👍
-## Wow, that was really cool 👍
-# Wow, that was really cool 👍 🤯
+###### - Wow, that was really cool 👍
+##### - Wow, that was really cool 👍
+#### - Wow, that was really cool 👍
+### - Wow, that was really cool 👍
+## - Wow, that was really cool 👍
+# - Wow, that was really cool 👍 🤯
